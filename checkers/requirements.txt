@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+soupsieve==2.4.1
+requests==2.28.2
+pwntools==4.9.0
