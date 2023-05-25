@@ -1,6 +1,6 @@
 # CybersecNatLab - A/D CTF Demo
 
-Demo services for A/D CTF.
+Demo services for an A/D CTF
 
 ## Services
 
